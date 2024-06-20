@@ -1,5 +1,7 @@
-# fpa
-Réalisation :
+# Conception et développement d'une application de gestion pour une Clinique Médicale ( PFA ) 
+Dans le cadre de notre projet de fin d’année à l’ENSA d’Agadir, en collaboration avec l'entreprise Vala Bleu, nous avons développé une application de gestion pour une clinique médicale.
+L'objectif principal de notre projet est de concevoir une solution complète pour simplifier la gestion des rendez-vous, des actes médicaux, des ordonnances, des certificats médicaux, de la facturation et des remboursements par les mutuelles au sein d'une clinique. Cette application vise à optimiser les processus internes et à améliorer l'expérience du personnel médical ainsi que celle des patients.
+
 ## Landing Page (page d'accueil) :
 L’interface ci-dessous représente la page d'accueil de l'application, où un design minimaliste et une mise en page responsive ont été pris en compte pour assurer une expérience utilisateur optimale sur différents appareils.
 <div align="center">
