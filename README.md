@@ -3,7 +3,7 @@ Dans le cadre de notre projet de fin d’année à l’ENSA d’Agadir, en colla
 
 L'objectif principal de notre projet est de concevoir une solution complète pour simplifier la gestion des rendez-vous, des actes médicaux, des ordonnances, des certificats médicaux, de la facturation et des remboursements par les mutuelles au sein d'une clinique. Cette application vise à optimiser les processus internes et à améliorer l'expérience du personnel médical ainsi que celle des patients.
 
-# ReaLISATI :
+# Réalisation :
 ## Landing Page (page d'accueil) :
 L’interface ci-dessous représente la page d'accueil de l'application, où un design minimaliste et une mise en page responsive ont été pris en compte pour assurer une expérience utilisateur optimale sur différents appareils.
 <div align="center" style="margin-top: 8px;">
@@ -29,7 +29,7 @@ L’interface ci-dessous représente la page de réinitialisation du mot de pass
 
 ## Interface de l'email reçu après une demande de réinitialisation du mot de passe :
 L'interface ci-dessous représente la page que l'utilisateur voit après avoir demandé la réinitialisation de son mot de passe. Le bouton redirige vers un lien unique pour réinitialiser le mot de passe. Si l'utilisateur clique sur ce lien et fournit un nouveau mot de passe valide, la réinitialisation est effectuée.
-<div align="center" style="margin-top: 8px;">
+<div align="center" style="margin-top: 8px; margin-bottom: 8px;">
   <img src="https://github.com/idboussadel/fpa/assets/113947156/6ce84536-e5f5-4627-8b45-f707eee10620" alt="L'email reçu après une demande de réinitialisation du mot de passe">
 </div>
 
