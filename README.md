@@ -3,7 +3,7 @@ Réalisation :
 ## Landing Page (page d'accueil) :
 L’interface ci-dessous représente la page d'accueil de l'application, où un design minimaliste et une mise en page responsive ont été pris en compte pour assurer une expérience utilisateur optimale sur différents appareils.
 <div align="center">
- ![Landing Page](https://github.com/idboussadel/fpa/assets/113947156/1387b2d0-c0b6-4a37-93bd-57f683826ba6)
+	<img src="[https://i.imgur.com/8BgVXcY.png](https://github.com/idboussadel/fpa/assets/113947156/1387b2d0-c0b6-4a37-93bd-57f683826ba6)">
 </div>
 
 Nous avons également implémenté une page 404 pour les routes qui n'existent pas.
