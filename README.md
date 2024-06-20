@@ -29,8 +29,10 @@ L’interface ci-dessous représente la page de réinitialisation du mot de pass
 
 ## Interface de l'email reçu après une demande de réinitialisation du mot de passe :
 L'interface ci-dessous représente la page que l'utilisateur voit après avoir demandé la réinitialisation de son mot de passe. Le bouton redirige vers un lien unique pour réinitialiser le mot de passe. Si l'utilisateur clique sur ce lien et fournit un nouveau mot de passe valide, la réinitialisation est effectuée.
-<div align="center" style="margin-top: 8px; margin-bottom: 8px;">
-  <img src="https://github.com/idboussadel/fpa/assets/113947156/6ce84536-e5f5-4627-8b45-f707eee10620" alt="L'email reçu après une demande de réinitialisation du mot de passe">
+<div align="center">
+  <p style="margin-top: 8px; margin-bottom: 8px;">
+    <img src="https://github.com/idboussadel/fpa/assets/113947156/6ce84536-e5f5-4627-8b45-f707eee10620" alt="L'email reçu après une demande de réinitialisation du mot de passe">
+  </p>
 </div>
 
 <div align="center" style="margin-top: 8px;">
