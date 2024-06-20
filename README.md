@@ -3,6 +3,21 @@ Dans le cadre de notre projet de fin d’année à l’ENSA d’Agadir, en colla
 
 L'objectif principal de notre projet est de concevoir une solution complète pour simplifier la gestion des rendez-vous, des actes médicaux, des ordonnances, des certificats médicaux, de la facturation et des remboursements par les mutuelles au sein d'une clinique. Cette application vise à optimiser les processus internes et à améliorer l'expérience du personnel médical ainsi que celle des patients.
 
+## Note :
+Le détail complet de la conception et de la réalisation de ce projet se trouve dans mon rapport PFA (Projet de Fin d'Année). Pour plus d'informations techniques et détaillées sur les choix technologiques, l'architecture de l'application, ainsi que sur les fonctionnalités implémentées, veuillez vous référer à ce document.
+
+## Technologies Utilisées
+Nous avons utilisé un ensemble de technologies modernes pour développer cette application de gestion pour une clinique médicale. Voici quelques-unes des principales technologies utilisées :
+
+Frontend : JavaScript, ReactJS, Zustand, Tailwind CSS
+Backend : PHP, Laravel, Laravel Sanctum, MySQL
+Outils d'authentification : Laravel Sanctum (JSON Web Token)
+Autres outils : Git, GitHub, Postman, XAMPP, Visual Studio Code (VSCODE), Astah
+Ces technologies nous ont permis de créer une application robuste, sécurisée et facile à maintenir, répondant aux besoins complexes de gestion d'une clinique médicale.
+<div align="center" style="margin-top: 8px;">
+  <img src="[https://github.com/idboussadel/fpa/assets/113947156/1387b2d0-c0b6-4a37-93bd-57f683826ba6](https://github.com/idboussadel/pfa/assets/113947156/6f0118d1-f186-4893-860d-d327b60152f7)">
+</div>
+
 # Réalisation :
 ## Landing Page (page d'accueil) :
 L’interface ci-dessous représente la page d'accueil de l'application, où un design minimaliste et une mise en page responsive ont été pris en compte pour assurer une expérience utilisateur optimale sur différents appareils.
