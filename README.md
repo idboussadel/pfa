@@ -108,3 +108,6 @@ L'interface ci-dessous représente la page que l'utilisateur voit après avoir d
 <div align="center" style="margin-top: 8px;">
   <img src="https://github.com/idboussadel/pfa/assets/113947156/20a98023-9a5c-4326-a4b5-31e5da483eed">
 </div>
+
+## Conclusion
+Ce qui précède n'est qu'un aperçu des fonctionnalités de notre projet. Le projet comporte de nombreuses fonctionnalités que j'ai détaillées dans mon rapport PFA.
