@@ -11,12 +11,19 @@ Nous avons utilisé un ensemble de technologies modernes pour développer cette 
 
 Frontend : JavaScript, ReactJS, Zustand, Tailwind CSS
 Backend : PHP, Laravel, Laravel Sanctum, MySQL
+Développement d’assistance intelligente : Python, FastAPI, LangChain
+Approche RAG (Retrieval-Augmented Generation) pour le chatbot basé sur les données internes de la société et sur les articles scientifiques de la plateforme
 Outils d'authentification : Laravel Sanctum (JSON Web Token)
 Autres outils : Git, GitHub, Postman, XAMPP, Visual Studio Code (VSCODE), Astah
 Ces technologies nous ont permis de créer une application robuste, sécurisée et facile à maintenir, répondant aux besoins complexes de gestion d'une clinique médicale.
 <div align="center" style="margin-top: 8px;">
   <img src="https://github.com/idboussadel/pfa/assets/113947156/6f0118d1-f186-4893-860d-d327b60152f7">
 </div>
+
+## Chatbot d’assistance intelligente
+
+Nous avons développé un chatbot d’assistance intelligente pour l’application, basé sur les données internes de la clinique et sur des articles scientifiques via la plateforme. Le chatbot utilise une approche RAG (Retrieval-Augmented Generation) pour fournir des réponses précises et contextuelles.
+Le backend du chatbot est construit avec FastAPI et LangChain en Python, permettant une intégration fluide avec l’application principale et une mise à jour continue des connaissances.
 
 # Réalisation :
 ## Landing Page (page d'accueil) :
