@@ -17,8 +17,9 @@ Outils d'authentification : Laravel Sanctum (JSON Web Token)
 Autres outils : Git, GitHub, Postman, XAMPP, Visual Studio Code (VSCODE), Astah
 Ces technologies nous ont permis de créer une application robuste, sécurisée et facile à maintenir, répondant aux besoins complexes de gestion d'une clinique médicale.
 <div align="center" style="margin-top: 8px;">
-  <img src="https://github.com/idboussadel/pfa/assets/113947156/6f0118d1-f186-4893-860d-d327b60152f7">
+  <img src="https://github.com/user-attachments/assets/68b70efd-5d1a-4c4d-a5c8-89688b9d08be">
 </div>
+
 
 ## Chatbot d’assistance intelligente
 
