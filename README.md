@@ -30,7 +30,7 @@ Le backend du chatbot est construit avec FastAPI et LangChain en Python, permett
 ## Landing Page (page d'accueil) :
 L’interface ci-dessous représente la page d'accueil de l'application, où un design minimaliste et une mise en page responsive ont été pris en compte pour assurer une expérience utilisateur optimale sur différents appareils.
 <div align="center" style="margin-top: 8px;">
-  <img src="https://github.com/idboussadel/fpa/assets/113947156/1387b2d0-c0b6-4a37-93bd-57f683826ba6">
+  <img src="https://github.com/user-attachments/assets/b4bf7076-3504-469d-9fb7-aad6cf53e36d">
 </div>
 
 Nous avons également implémenté une page 404 pour les routes qui n'existent pas.
